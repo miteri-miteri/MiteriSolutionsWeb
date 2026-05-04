@@ -77,7 +77,7 @@ Add a **CNAME** record in your DNS provider settings:
 
 | Type   | Name             | Value                   |
 |--------|------------------|-------------------------|
-| CNAME  | miterisolutions  | YOUR-USERNAME.github.io |
+| CNAME  | miterisolutions  | miteri-miteri.github.io |
 
 ## Customization
 
